@@ -8,7 +8,7 @@
     <language>zh-cn</language>
     <managingEditor>xxx (Aiming Cao(曹爱明))</managingEditor>
     <webMaster>xxx (Aiming Cao(曹爱明))</webMaster>
-    <lastBuildDate>Mon, 09 Apr 2018 18:24:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2017 21:56:04 +0800</lastBuildDate>
     
 	<atom:link href="https://linuxer.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Cloud Native</title>
       <link>https://linuxer.io/tags/cloud-native/</link>
-      <pubDate>Mon, 09 Apr 2018 18:24:48 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 21:56:04 +0800</pubDate>
       <author>xxx (Aiming Cao(曹爱明))</author>
       <guid>https://linuxer.io/tags/cloud-native/</guid>
       <description></description>
@@ -34,7 +34,7 @@
     <item>
       <title>Service Mesh</title>
       <link>https://linuxer.io/tags/service-mesh/</link>
-      <pubDate>Mon, 09 Apr 2018 18:24:48 +0800</pubDate>
+      <pubDate>Wed, 20 Sep 2017 21:56:04 +0800</pubDate>
       <author>xxx (Aiming Cao(曹爱明))</author>
       <guid>https://linuxer.io/tags/service-mesh/</guid>
       <description></description>
