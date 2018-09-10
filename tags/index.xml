@@ -6,28 +6,28 @@
     <description>Recent content in Tags on devops007</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <managingEditor>xxx (Aiming Cao(曹爱明))</managingEditor>
-    <webMaster>xxx (Aiming Cao(曹爱明))</webMaster>
-    <lastBuildDate>Wed, 11 Apr 2018 20:50:21 +0800</lastBuildDate>
+    <managingEditor>caming101006@gmail.com (Alex)</managingEditor>
+    <webMaster>caming101006@gmail.com (Alex)</webMaster>
+    <lastBuildDate>Thu, 24 May 2018 11:15:23 +0800</lastBuildDate>
     
 	<atom:link href="https://linuxer.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Centos</title>
-      <link>https://linuxer.io/tags/centos/</link>
-      <pubDate>Wed, 11 Apr 2018 20:50:21 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/centos/</guid>
+      <title>Algolia</title>
+      <link>https://linuxer.io/tags/algolia/</link>
+      <pubDate>Thu, 24 May 2018 11:15:23 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/algolia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cloud Native</title>
-      <link>https://linuxer.io/tags/cloud-native/</link>
-      <pubDate>Mon, 09 Apr 2018 21:56:04 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/cloud-native/</guid>
+      <title>Beautifulhugo</title>
+      <link>https://linuxer.io/tags/beautifulhugo/</link>
+      <pubDate>Thu, 24 May 2018 11:15:23 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/beautifulhugo/</guid>
       <description></description>
     </item>
     
@@ -35,17 +35,35 @@
       <title>Compiz Fusion</title>
       <link>https://linuxer.io/tags/compiz-fusion/</link>
       <pubDate>Wed, 11 Apr 2018 20:50:21 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
+      <author>caming101006@gmail.com (Alex)</author>
       <guid>https://linuxer.io/tags/compiz-fusion/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fedora</title>
-      <link>https://linuxer.io/tags/fedora/</link>
-      <pubDate>Wed, 11 Apr 2018 20:50:21 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/fedora/</guid>
+      <title>Django</title>
+      <link>https://linuxer.io/tags/django/</link>
+      <pubDate>Tue, 10 Jul 2018 18:56:35 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://linuxer.io/tags/hugo/</link>
+      <pubDate>Thu, 24 May 2018 11:15:23 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://linuxer.io/tags/linux/</link>
+      <pubDate>Thu, 26 Apr 2018 08:14:31 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -53,35 +71,80 @@
       <title>Me</title>
       <link>https://linuxer.io/tags/me/</link>
       <pubDate>Sat, 18 Mar 2017 20:53:54 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
+      <author>caming101006@gmail.com (Alex)</author>
       <guid>https://linuxer.io/tags/me/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Opensuse</title>
-      <link>https://linuxer.io/tags/opensuse/</link>
-      <pubDate>Wed, 11 Apr 2018 20:50:21 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/opensuse/</guid>
+      <title>Office2013</title>
+      <link>https://linuxer.io/tags/office2013/</link>
+      <pubDate>Thu, 26 Apr 2018 08:14:31 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/office2013/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Redhat</title>
-      <link>https://linuxer.io/tags/redhat/</link>
-      <pubDate>Wed, 11 Apr 2018 20:50:21 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/redhat/</guid>
+      <title>Photoshop Cs6</title>
+      <link>https://linuxer.io/tags/photoshop-cs6/</link>
+      <pubDate>Wed, 25 Apr 2018 15:17:20 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/photoshop-cs6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Service Mesh</title>
-      <link>https://linuxer.io/tags/service-mesh/</link>
-      <pubDate>Mon, 09 Apr 2018 21:56:04 +0800</pubDate>
-      <author>xxx (Aiming Cao(曹爱明))</author>
-      <guid>https://linuxer.io/tags/service-mesh/</guid>
+      <title>Playonlinux</title>
+      <link>https://linuxer.io/tags/playonlinux/</link>
+      <pubDate>Thu, 26 Apr 2018 08:14:31 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/playonlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python3</title>
+      <link>https://linuxer.io/tags/python3/</link>
+      <pubDate>Tue, 10 Jul 2018 18:56:35 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/python3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://linuxer.io/tags/search/</link>
+      <pubDate>Thu, 24 May 2018 11:15:23 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signal</title>
+      <link>https://linuxer.io/tags/signal/</link>
+      <pubDate>Tue, 10 Jul 2018 18:56:35 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/signal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toc</title>
+      <link>https://linuxer.io/tags/toc/</link>
+      <pubDate>Wed, 23 May 2018 19:33:47 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/toc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wine</title>
+      <link>https://linuxer.io/tags/wine/</link>
+      <pubDate>Thu, 26 Apr 2018 08:14:31 +0800</pubDate>
+      <author>caming101006@gmail.com (Alex)</author>
+      <guid>https://linuxer.io/tags/wine/</guid>
       <description></description>
     </item>
     
